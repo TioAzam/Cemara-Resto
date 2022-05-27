@@ -1,0 +1,4 @@
+Resto[[:space:]]Cemara.exe filter=lfs diff=lfs merge=lfs -text
+Resto[[:space:]]Cemara1.cab filter=lfs diff=lfs merge=lfs -text
+Resto[[:space:]]Cemara1.exe
+ filter=lfs diff=lfs merge=lfs -text
